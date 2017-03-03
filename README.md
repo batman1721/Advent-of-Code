@@ -1,3 +1,2 @@
-# Advent-of-Code
-
-Trying to solve the Advent of Code (2016)
+Solving Advent of Code (2016) mainly in python
+https://adventofcode.com/
