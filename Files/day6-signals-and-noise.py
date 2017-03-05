@@ -1,0 +1,668 @@
+#Signals and Noise
+
+code='''cmezkqgn
+nmzrgcft
+ydpndcps
+zjihhows
+kvptxsrx
+ubbvugwq
+pclcquhl
+rtddzpes
+gfkylkvo
+cpxpjjme
+qqntjofm
+tnvmqrik
+cczmxxag
+ikbrgpjh
+lpeohbro
+sgdidbgw
+apjhovfs
+miwqgpmr
+igkccbxe
+dcfpfkdv
+neaxgnpr
+xjlnhgwz
+hbwdbtmt
+jaahaztu
+xdhkxiwj
+kbcnydre
+zygzcjxg
+pnhlsbyu
+gpkfcakg
+vlpebsme
+fhivcwnn
+avscujyu
+tckpnxnn
+vhtaizda
+vghhmhuy
+dtzhrwcw
+qhbcdaxx
+kdoadrvh
+yrjzipbd
+weqfqmqr
+zlkaiefc
+zziwfitz
+hfdvzpol
+opialtmr
+wgbarxig
+gguytyxk
+gwvaqisb
+vybedyip
+cbcdebwm
+twoqbnis
+itrspsmt
+cqvjpfou
+avhpvkbz
+xozehrwd
+qizmzubk
+hpyiulwy
+clmrwgdt
+uruutjhx
+pyvkmpxk
+wpjfzzst
+hjxjjkup
+mdtlnvab
+tqwnjufv
+nlaxmbxc
+nyetqfpn
+nmapoequ
+aozqvnbx
+awuopxxj
+jjamjzdr
+xsgnpwrv
+odpbdulf
+nnpddykk
+fwkqbeeq
+rmpyqcrr
+nnrbqymd
+advolplo
+xfwzojqb
+dlxozmgp
+mehtypai
+qgxmpmza
+cyflmzcf
+drilfbik
+hsrkwohm
+lzdcksvs
+xtqiuyon
+aatvfuvn
+tgdwdznm
+srlndtlz
+kcdtqqov
+rjjwcfpr
+sqmwnyjj
+spfagdkw
+ffqrocvz
+fdncyaef
+doymrkhy
+nagivkzc
+ylvmvlvo
+yqnpiqnx
+yqiuccji
+swugswxs
+wlfcvtms
+bplwnlqh
+dyqqbiop
+ugxdfwnu
+actfbdnl
+hafvcdjm
+uxlvddgb
+jimpqraf
+oovjqvmc
+niixikhh
+uamcczvl
+iqyhtphk
+hmgnaqfa
+anptkatn
+taslmdqh
+hrsdlgth
+tidxkojm
+bozyplbl
+viyiykes
+bqttiowc
+fdygoexj
+yxiqrabo
+hoqmzyap
+qrdjlssb
+kpoknmcl
+wmfbbpoz
+xyfmwzrc
+ekgikzyt
+furxwelu
+gtfoyquj
+xhtkpgnb
+pqwfaoeh
+kgutwopd
+gmsrhxhp
+yfriofga
+kjulfqdc
+anyrvwxv
+reuufyff
+rhhuhyku
+muwxqimh
+lmmesfgq
+buklvija
+nrqemlud
+waggxokb
+dmmtiifd
+kgawgnsa
+pvwrwdhz
+mboaagdf
+tugpycjc
+yrrurffl
+xnpptcxi
+wynqznnj
+pecxtzem
+qsmjkvvd
+gbosyfyx
+dckxdlle
+oyuucewm
+rvzinbwp
+bwdsapew
+qacnmkst
+dunstuov
+gfrmztat
+psehmndx
+krhyzbag
+trxayqjv
+ddhrarzx
+msnjiwaf
+znjklkrs
+gzhgcuqn
+eoivvakl
+ekjbelae
+oxvbtsmk
+mwfqyskr
+tihtgxtf
+hldkxeuc
+nnawdxvy
+euemeepz
+ibnuhhex
+ojwihmnv
+cfpezewj
+vrxjrwia
+wgmyafnj
+pnrsmxka
+ksuwbzlt
+uwkupngv
+jdajpsal
+tbufcuza
+jjgptlxn
+hxoulqig
+gieqsttk
+fwjyxnaq
+pmfdifiq
+qcgjfmsh
+bnzqevtw
+zlosluzk
+pyfrslkb
+ivzxjsgx
+wahqmige
+uhvsplzs
+qaatujkd
+taryjkox
+jwdwisfv
+dtwhlvuv
+lwlwbjee
+wopsiktn
+iojihkrw
+pwmqgwpk
+kepvgmcd
+dqgupbhg
+srofdewh
+ntijingz
+osixtaku
+isacbsnl
+txtaxccj
+uuqanmcw
+nsuogfzt
+yktybcsy
+csqjvxog
+rrjygfmc
+eftdwemr
+uxbswaep
+zghswtrf
+fhlxbray
+julloyea
+bsxwmvfv
+kzatuvcu
+mnymrdpq
+idejsnhx
+kdbpzapz
+tzjefanj
+ottzlwxh
+mifokhqj
+lxxbtzjr
+wjcblnsd
+siiozsqc
+iujapalx
+ofsvvyuy
+zbgpxvrb
+aqbilxlp
+ncobthcc
+sflihopk
+pxwtiwam
+nmgzdpyj
+nhjhaezr
+weihbqyp
+pkpnbhxp
+dlrelmop
+mjbvnjuq
+qntmdrey
+htiluzbi
+fingzxbe
+mnekisyu
+ynfcmhzd
+vdzoljfg
+wfmscpvw
+efvyjhux
+gvfkaxjq
+rkmkahxl
+vhqijllu
+kkjpwxlq
+londfadk
+ohsxywdq
+znstqcbb
+qtazxfoi
+jdqwiadz
+mumicrid
+uhwfytgm
+srqofgqp
+gtlqqspw
+kxnkrcln
+aycqjkay
+yvangrcm
+tpokdbwt
+hmfqugbw
+qoymvotr
+icjendxu
+uqsvumij
+bqkqoeul
+riarnbdv
+zwlltddu
+izcmngof
+lawuhjjj
+fdtnicju
+iizykequ
+lwrfolub
+rknrbikc
+yvogoydm
+bogzdkiw
+obnhuoxn
+lzzpupsk
+nuefyzzr
+azghigtg
+mkyduyug
+mnteeioi
+yhqbtwyx
+eaojxpwy
+hbbxehvr
+omdkihmb
+hbcijcio
+settptzw
+babyhhhe
+cdlexgrs
+cwrdtzjk
+xvtwjacw
+lxeykife
+szogbxgb
+ggxlgisl
+kbmrnfro
+ioervjsx
+pfkodypz
+ojgbokwc
+jvykzhzc
+cmigvhio
+wwiowvyo
+igwtrxhe
+obawztja
+yyazfxks
+gfqqttue
+czmvgttl
+aljlhlyo
+zczpqnzb
+ruofwgrx
+bhemgvlr
+yzsulgck
+eixzpfkh
+cbejkdrs
+qcsnnfht
+ryvlmbiz
+nfswleyf
+xtoxoitk
+ysfgwpmy
+zsnapbrq
+olqagygt
+zmtyqfvd
+ztybusgn
+zsydzdnl
+fkbvfvsq
+gwdjudok
+juzbnhfe
+apivbufk
+ozxgeeqa
+yvyvuvxh
+kexcesza
+gqefjmed
+hqyolehg
+mluggzqh
+gkpjfkhg
+bmvxtrci
+euyduveo
+avwdogys
+jnserfgo
+iysfpsns
+nxilicng
+rpclnuwl
+anxroxpu
+fjmenahn
+xngxqxxt
+ziwltmcm
+rdizrucj
+wvvwldvq
+blyiqvpw
+iklfxllo
+txueozfv
+wapwemje
+bztthavf
+fkfejluf
+iwynejes
+mkwpylhy
+pmndxgby
+vhgdvrbv
+fizshysy
+phqddggq
+bosaehqz
+kwsoncrz
+pmaethwo
+valgeqbq
+rcjuatfg
+ryaujqvn
+urpgwdyv
+gdefrqbu
+jcpfzans
+eywcyjer
+xpkacpyo
+xqdukuff
+lmbaxfqi
+tzvnhfms
+osqfwpss
+ltgvoipl
+bcorqrzk
+wgccrykp
+aaaoczvn
+jpbsehyo
+qtfzphwh
+bpiiwzib
+tnxbnwyg
+xruheaca
+eoxvahaq
+dzhcleaw
+vwcgptbp
+mmqzjwte
+gpxrndsm
+kdgwktpb
+roqqxgvt
+tceymtaf
+pkelkvvi
+jqfguroe
+xbrhyuai
+jvbizlbh
+hhujmghp
+xxtagkzc
+pxtzfvsy
+vlopcrko
+lorhgtfj
+eyuzxpjt
+jxjbdzrs
+jfcuqypt
+dcmbqqln
+stdmubrl
+fkvvwbue
+mqqhkoqd
+lvmnavnr
+gtxksotd
+dyjdydhj
+rknodxpp
+nkrbeqgp
+lzzlxjub
+hfhycqag
+zrhtmjcz
+tetkoiki
+aeicawds
+kvverwcb
+vkkmanit
+ozzoauql
+eqjceipv
+vjeajvzj
+rfbyfkdt
+ayudrwvi
+ozlumnku
+bbmgldja
+dwpjacmb
+ddyqbnzl
+jlrdfzef
+quovmsbh
+utposqki
+howsfhba
+rdddsgwx
+fcdtcqni
+kbhnvmah
+cgpbjquu
+qjhmpyff
+wxkytidy
+ssefidnf
+opswmrqz
+zhcskfsp
+hhkqbfon
+uvgdhifc
+eoewusji
+xjmylrdx
+fabeoujy
+gzrceopo
+fxsivztv
+veqxwblf
+sacoxlhm
+xongcuef
+lufmhuoi
+juzgavxq
+jjwlcfjq
+egmnqjqn
+ryhlipod
+uagzcjur
+epjngrwa
+fijrzmww
+zihnvpgp
+zjurrctz
+irhnbjjr
+mlrfavaa
+cokssyim
+auwsrcsm
+wrkkttyo
+cmskryli
+mrkpezgq
+ehefyaqv
+ivsuxdll
+gscbkguh
+bfxberbd
+vihesdxg
+vdbxzltv
+lkoiranw
+qcnefblb
+cfftjwud
+xqpieetw
+crnrywvn
+eepxytfc
+cacfhgnf
+bakhanwy
+lsnlnmrj
+usaurokx
+sjqbyile
+lvcgmrte
+vesupotm
+yeusftiz
+clnjmcit
+jhexzuyh
+wtbiuozi
+fsnqljcg
+fxretbsa
+lsagjnhx
+jjknskzr
+dllskstv
+vgxhdbyw
+yryqoqgz
+ycilkokz
+vfdcsamh
+oedmwosl
+vzwfymbu
+eqrznqgp
+fevhvwom
+qextbmed
+ubdsfkiu
+stvuqrka
+nmcrshqw
+zlfzaxmw
+qzcagqcq
+djudatbg
+usknomtt
+busciicd
+wyugburo
+qblpvrxc
+shzawivm
+ztgzrklm
+ahpxtdmz
+obvuhnlj
+uihsumey
+mircsnyv
+ijjhkyjw
+dgxmzhgq
+rqavgasa
+lelkschr
+svzzvroa
+sevzfvbh
+kgzcpbdj
+wvctsjcp
+kgdrxolj
+tlsksbdi
+ycqvhidx
+epcaeqir
+xcrgjgzi
+snuvvmmy
+cxbxoxvb
+leykoxno
+ppvysjob
+eubrylie
+pxspjeqg
+xbdesmuq
+bfcpktpy
+elyounyn
+niwhwuak
+hukkheui
+ueojrjoc
+mktpkpsk
+uxljxoei
+hymwnsrf
+sgyywcqt
+yznoeeft
+puvcmnpe
+domsvurc
+ukbhxndd
+qwlzklcm
+qttwpwdc
+vxljmley
+sjlbsszg
+iqobsomn'''.split('\n')
+
+def count_l(x):
+    n_alfabeto=[]
+    for i in xrange(0,26):
+        n_alfabeto.append(0)
+    for j in xrange(0,len(x)):
+        if x[j]=='a':
+            n_alfabeto[0]=n_alfabeto[0]+1
+        elif x[j]=='b':
+            n_alfabeto[1]=n_alfabeto[1]+1
+        elif x[j]=='c':
+            n_alfabeto[2]=n_alfabeto[2]+1
+        elif x[j]=='d':
+            n_alfabeto[3]=n_alfabeto[3]+1
+        elif x[j]=='e':
+            n_alfabeto[4]=n_alfabeto[4]+1
+        elif x[j]=='f':
+            n_alfabeto[5]=n_alfabeto[5]+1
+        elif x[j]=='g':
+            n_alfabeto[6]=n_alfabeto[6]+1
+        elif x[j]=='h':
+            n_alfabeto[7]=n_alfabeto[7]+1
+        elif x[j]=='i':
+            n_alfabeto[8]=n_alfabeto[8]+1
+        elif x[j]=='j':
+            n_alfabeto[9]=n_alfabeto[9]+1
+        elif x[j]=='k':
+            n_alfabeto[10]=n_alfabeto[10]+1
+        elif x[j]=='l':
+            n_alfabeto[11]=n_alfabeto[11]+1
+        elif x[j]=='m':
+            n_alfabeto[12]=n_alfabeto[12]+1
+        elif x[j]=='n':
+            n_alfabeto[13]=n_alfabeto[13]+1
+        elif x[j]=='o':
+            n_alfabeto[14]=n_alfabeto[14]+1
+        elif x[j]=='p':
+            n_alfabeto[15]=n_alfabeto[15]+1
+        elif x[j]=='q':
+            n_alfabeto[16]=n_alfabeto[16]+1
+        elif x[j]=='r':
+            n_alfabeto[17]=n_alfabeto[17]+1
+        elif x[j]=='s':
+            n_alfabeto[18]=n_alfabeto[18]+1
+        elif x[j]=='t':
+            n_alfabeto[19]=n_alfabeto[19]+1
+        elif x[j]=='u':
+            n_alfabeto[20]=n_alfabeto[20]+1
+        elif x[j]=='v':
+            n_alfabeto[21]=n_alfabeto[21]+1
+        elif x[j]=='w':
+            n_alfabeto[22]=n_alfabeto[22]+1
+        elif x[j]=='x':
+            n_alfabeto[23]=n_alfabeto[23]+1
+        elif x[j]=='y':
+            n_alfabeto[24]=n_alfabeto[24]+1
+        elif x[j]=='z':
+            n_alfabeto[25]=n_alfabeto[25]+1
+    return n_alfabeto
+
+#Part 1
+def most_c(x):
+    mc=0
+    m=0
+    for i in xrange(0,len(x)):
+        if int(x[i])>mc:
+            mc=int(x[i])
+            m=i
+    return m
+
+code_h=[]
+code_f=''
+for i in xrange(0,8):
+    for j in xrange(0,len(code)):
+        code_f=code_f+code[j][i]
+    code_h.append(code_f)
+    code_f=''
+
+for i in xrange(0,8):
+    print 'abcdefghijklmnopqrstuvwxyz'[most_c(count_l(code_h[i]))]
+
+#Part 2
+print '\n'
+def less_c(x):
+    mc=25
+    m=0
+    for i in xrange(0,len(x)):
+        if int(x[i])<mc:
+            mc=int(x[i])
+            m=i
+    return m
+
+for i in xrange(0,8):
+    print 'abcdefghijklmnopqrstuvwxyz'[less_c(count_l(code_h[i]))]
