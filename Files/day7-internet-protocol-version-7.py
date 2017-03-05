@@ -2001,6 +2001,8 @@ iwzncixpjxypnmykke[wlhvfjbumhmtachoab]wtftbolwhpwnropnzv[zhfcmkbwizknymev]twrumq
 dkodbaotlfdaphwzbcc[ldzeemqiovyqjgs]qxibabdusgaistkru[usglloxgycyynmp]aaocvclsocababbzxeg[liaacgfxytuqudp]jvvqsypuoduyhvraak
 bwzsacxgqkbjycgfw[dbnligvrmqscasutn]rbgybqqsgjvlonkut'''.split('\n')
 
+#Part 1
+
 def check_par(x,i):
     a=0
     for j in xrange(0,i):
@@ -2028,3 +2030,26 @@ for i in xrange(0,len(data)):
         arr.append(i)
 
 print len(arr)
+
+#Part 2
+
+for i in xrange(0,len(data)):
+    data[i]=data[i].replace('[','').replace(']','')
+
+def check_seq(x,y,z):
+    if ((str(z[x])+str(z[y])+str(z[x])) in z)==True:
+        return True
+        
+def is_SSL(x):
+    for i in xrange(0,len(x)-2):
+        if x[i]==x[i+2] and x[i]!=x[i+1]:
+            if check_seq(i+1,i,x)==True:
+                return True
+
+counter=0
+for i in xrange(0,len(data)):
+    if is_SSL(data[i])==True:
+        counter=counter+1
+
+print counter
+
