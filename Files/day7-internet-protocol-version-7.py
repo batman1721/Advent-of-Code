@@ -2012,9 +2012,15 @@ def check_par(x,i):
         return False
 
 def is_valid(x):
-    for i in xrange(0,len(x)-4):
-        if x[i]==x[i+3] and x[i+1]==x[i+2] and x[i]!=x[i+1] and check_par(x,i)==True:
-            return True
+    y=''
+    for i in xrange(0,len(x)-3):
+        if x[i]==x[i+3] and x[i+1]==x[i+2] and x[i]!=x[i+1]:
+            if check_par(x,i)==True:
+                y=True
+            else:
+                y=False
+                break
+    return y
 
 arr=[]
 for i in xrange(0,len(data)):
