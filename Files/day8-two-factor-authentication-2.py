@@ -218,3 +218,9 @@ for i in data:
         print 'error'
 
 print np.count_nonzero(mat)
+
+#Part 2
+#CODE FROM http://stackoverflow.com/questions/2659312/how-do-i-convert-a-numpy-array-to-and-display-an-image
+from matplotlib import pyplot as plt
+plt.imshow(mat, interpolation='nearest')
+plt.show()
